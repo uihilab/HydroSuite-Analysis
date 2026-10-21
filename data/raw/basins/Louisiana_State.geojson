@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Louisiana_State",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -94.1, 28.85 ], [ -94.1, 33.05 ], [ -88.75, 33.05 ], [ -88.75, 28.85 ], [ -94.1, 28.85 ] ] ] } }
+]
+}

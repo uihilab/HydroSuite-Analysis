@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME": "Louisiana",
+                "STATEFP": "22"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.043147,
+                            33.018527
+                        ],
+                        [
+                            -94.043147,
+                            28.855127
+                        ],
+                        [
+                            -88.758388,
+                            28.855127
+                        ],
+                        [
+                            -88.758388,
+                            33.018527
+                        ],
+                        [
+                            -94.043147,
+                            33.018527
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

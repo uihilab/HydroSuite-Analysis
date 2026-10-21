@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Data & Output (large files)
+data/
+!data/raw/basins/
+!data/raw/basins/*.geojson
+!data/raw/boundaries/
+!data/raw/boundaries/*.geojson
+results/
+downloads/
+temp/
+tmp/
+*.nc
+*.tif
+*.tiff
+*.zip
+*.log
+*.docx
+*.xlsx
+*.parquet
+
+# HydroLang checkout used by the Node.js retrieval scripts (see README)
+hydrolang/
+
+# Generated figures and tables
+*.png
+*.csv
+
+# Editor Config
+.vscode/
+.idea/
+.DS_Store
+.agents/
+
+# Json Data (allow package.json)
+*.json
+!package.json
+!package-lock.json
+
+# Scratch / temp artifacts
+/backup_scripts/
+patch_*.py
+fix_*.py
+test_*.png
+_tmp_*
+*.bak

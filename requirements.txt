@@ -1,0 +1,14 @@
+# Analysis pipeline (scripts/run_pipeline.py, run_et_station_comparison.py, tests/)
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+xarray>=2023.10
+netCDF4>=1.6
+pyarrow>=14          # parquet caches (gridpass_v2, station extracts)
+matplotlib>=3.8
+statsmodels>=0.14    # robust STL in Phase 6 (classical fallback is used without it)
+# Retrieval / preprocessing only
+s3fs
+zarr
+rioxarray
+geopandas

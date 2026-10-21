@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "US_South_Region"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -106.6,
+                            25.8
+                        ],
+                        [
+                            -106.6,
+                            36.5
+                        ],
+                        [
+                            -75.0,
+                            36.5
+                        ],
+                        [
+                            -75.0,
+                            25.8
+                        ],
+                        [
+                            -106.6,
+                            25.8
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

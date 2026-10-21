@@ -1,0 +1,8 @@
+xarray
+netCDF4
+rioxarray
+geopandas
+shapely
+scipy
+pandas
+matplotlib
