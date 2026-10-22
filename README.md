@@ -227,7 +227,21 @@ Figure styling follows the [**figures4papers**](https://github.com/ChenLiu-1996/
 
 ## Citation
 
-If you use this code, please cite this repository and HydroSuite. A preprint describing the analysis will be posted on EarthArXiv; its reference will be added here.
+If you use this code, please cite the preprint that describes the analysis, along with this repository and HydroSuite:
+
+Erazo Ramirez, C., & Demir, I. (2026). *Hydrometeorological consistency and structural differences in high-resolution atmospheric forcing products over the Gulf Coast* [Preprint]. EarthArXiv. https://doi.org/10.31223/X5NF96
+
+```bibtex
+@misc{erazoramirez2026hydrometeorological,
+  author    = {Erazo Ramirez, Carlos and Demir, Ibrahim},
+  title     = {Hydrometeorological Consistency and Structural Differences in High-Resolution Atmospheric Forcing Products over the Gulf Coast},
+  year      = {2026},
+  publisher = {EarthArXiv},
+  note      = {Preprint},
+  doi       = {10.31223/X5NF96},
+  url       = {https://doi.org/10.31223/X5NF96}
+}
+```
 
 ---
 
